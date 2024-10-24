@@ -1,0 +1,10 @@
+modelo\Humanos.class
+modelo\Orcos.class
+modelo\Hobbits.class
+modelo\Heroes.class
+vista\mainVisual.class
+modelo\Elfos.class
+modelo\Trasgos.class
+modelo\Bestias.class
+modelo\Personaje.class
+controlador\Main.class
